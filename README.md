@@ -1,5 +1,5 @@
 # Curso Python
-Curso gratuito de python, para aprender las bases. Se tratará de mejorar con el tiempo hasta llegar a varios cuadernos especializados en diferentes librerías de pyhton para Machine Learning.
+Curso gratuito de python, para aprender las bases. Se tratará de mejorar con el tiempo hasta llegar a varios cuadernos especializados en diferentes librerías de python para Machine Learning.
 
 ## Sección 1
 1. Asignar nombre a variables
